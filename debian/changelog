@@ -1,3 +1,9 @@
+pharo-vm (2013.07.12-1~sctp2) UNRELEASED; urgency=low
+
+  * Work with SCTP
+
+ -- Holger Hans Peter Freyther <holger@freyther.de>  Tue, 23 Jul 2013 15:54:40 +0200
+
 pharo-vm (2013.07.12-1~ppa1~raring1) raring; urgency=low
 
   * Build for raring
