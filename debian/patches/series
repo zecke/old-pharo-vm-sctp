@@ -1,0 +1,3 @@
+pharo-is-not-squeak.patch
+fix-cmake-root-directory.patch
+source-hardening.patch
