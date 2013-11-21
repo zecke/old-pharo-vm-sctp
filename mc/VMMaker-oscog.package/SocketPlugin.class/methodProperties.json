@@ -69,7 +69,11 @@
 		"primitiveSocketRemoteAddress:" : "tpr (auto pragmas 12/08) 12/29/2005 17:18",
 		"primitiveSocketRemoteAddressSize:" : "ikp (auto pragmas dtl 2010-09-28) 6/9/2007 10:30",
 		"primitiveSocketRemotePort:" : "tpr (auto pragmas 12/08) 12/29/2005 17:18",
+		"primitiveSocketSCTP:receiveUDPDataBuf:start:count:" : "HolgerHansPeterFreyther 1/29/2013 09:50",
+		"primitiveSocketSCTP:sendData:start:count:stream:assocId:ppid:" : "HolgerHansPeterFreyther 1/29/2013 09:51",
+		"primitiveSocketSCTPEnableDataIOEvent:enable:" : "HolgerHansPeterFreyther 1/28/2013 21:30",
 		"primitiveSocketSendDone:" : "tpr (auto pragmas 12/08) 12/29/2005 17:18",
 		"shutdownModule" : "ar (auto pragmas 12/08) 5/12/2000 16:55",
 		"socketRecordSize" : "TPR 2/22/2000 17:26",
+		"socketSCTPSndRcvInfoSize" : "HolgerHansPeterFreyther 1/28/2013 21:50",
 		"socketValueOf:" : "eem 6/7/2012 10:50" } }

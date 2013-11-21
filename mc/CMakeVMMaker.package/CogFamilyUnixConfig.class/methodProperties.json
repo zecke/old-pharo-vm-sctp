@@ -3,7 +3,7 @@
 		 },
 	"instance" : {
 		"addDriver:sources:generator:" : "NicolasPasserini 3/30/2011 16:45",
-		"addDriver:sources:generator:externalLibs:" : "GuillermoPolito 6/27/2013 01:29",
+		"addDriver:sources:generator:externalLibs:" : "HolgerHansPeterFreyther 7/23/2013 12:38",
 		"addVMDrivers:" : "IgorStasenko 7/7/2011 16:09",
 		"buildScript" : "EstebanLorenzano 3/8/2013 14:12",
 		"compilerFlags" : "IgorStasenko 2/12/2011 21:56",
@@ -19,7 +19,7 @@
 		"configureMIDIPlugin:" : "Igor.Stasenko 1/16/2011 01:37",
 		"configureSecurityPlugin:" : "Igor.Stasenko 1/16/2011 01:38",
 		"configureSerialPlugin:" : "Igor.Stasenko 1/16/2011 01:40",
-		"configureSocketPlugin:" : "Igor.Stasenko 1/16/2011 01:41",
+		"configureSocketPlugin:" : "HolgerHansPeterFreyther 1/29/2013 09:24",
 		"configureSoundPlugin:" : "Igor.Stasenko 1/16/2011 01:42",
 		"configureSqueakSSLPlugin:" : "",
 		"configureUUIDPlugin:" : "IgorStasenko 3/15/2011 17:56",
@@ -29,6 +29,6 @@
 		"fixLineEndsOf:" : "Igor.Stasenko 1/18/2011 10:16",
 		"frameworks" : "Igor.Stasenko 1/4/2011 02:37",
 		"linkFlags" : "NicolasPasserini 3/30/2011 16:46",
-		"outputDir" : "GuillermoPolito 6/27/2013 01:12",
+		"outputDir" : "HolgerHansPeterFreyther 7/23/2013 12:41",
 		"platformName" : "Igor.Stasenko 1/4/2011 02:38",
-		"setExtraTargetProperties:" : "GuillermoPolito 6/27/2013 01:14" } }
+		"setExtraTargetProperties:" : "HolgerHansPeterFreyther 7/23/2013 12:38" } }

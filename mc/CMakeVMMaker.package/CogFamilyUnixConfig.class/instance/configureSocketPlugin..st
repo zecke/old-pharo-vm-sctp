@@ -2,4 +2,5 @@ plugin extra rules
 configureSocketPlugin: maker 
 	"extra rules for SocketPlugin"
 	
-	maker addPlatformSources: #( 'sqUnixSocket')
+	maker addPlatformSources: #( 'sqUnixSocket').
+	maker addExternalLibraries: #('sctp' ).
