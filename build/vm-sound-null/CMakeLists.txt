@@ -1,0 +1,16 @@
+# This is automatically generated file using PharoUnixConfig on 21 November 2013 4:44:59.418 pm
+cmake_minimum_required(VERSION 2.6.2)
+project("vm-sound-null")
+include(../directories.cmake)
+message("Adding module: vm-sound-null")
+add_definitions( -DLSB_FIRST=1 -DUSE_GLOBAL_STRUCT=0 -DCOGMTVM=0 -m32 -DENABLE_FAST_BLT  -DIMAGE_DIALECT_NAME="pharo"  -DIMAGE_ENV_NAME="PHARO_IMAGE"  -DDEFAULT_IMAGE_NAME="pharo.image"  -g0 -O2 -fno-tree-pre -fno-caller-saves -msse2 -D_GNU_SOURCE -DNDEBUG -DITIMER_HEARTBEAT=1 -DNO_VM_PROFILE=1 -DDEBUGVM=0)
+add_definitions(-fPIC -DPIC)
+set(sources  "${targetPlatform}/vm-sound-null/sqUnixSoundNull")
+add_library(vm-sound-null SHARED ${sources})
+include_directories(${crossDir}/plugins/FilePlugin)
+include_directories(${targetPlatform}/plugins/B3DAcceleratorPlugin)
+include_directories(${crossDir}/plugins/B3DAcceleratorPlugin)
+set(LIBRARY_OUTPUT_PATH "${CMAKE_SOURCE_DIR}/../results")
+target_link_libraries(vm-sound-null ${LINKLIBS})
+set_target_properties(vm-sound-null PROPERTIES PREFIX "" SUFFIX "" 
+			LINK_FLAGS -m32)

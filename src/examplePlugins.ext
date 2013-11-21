@@ -1,0 +1,43 @@
+# Automatically generated makefile include for external plugins
+EXTERNAL_PLUGINS = \
+ADPCMCodecPlugin \
+AsynchFilePlugin \
+B3DAcceleratorPlugin \
+BMPReadWriterPlugin \
+B2DPlugin \
+BitBltPlugin \
+NativeBoostPlugin \
+CroquetPlugin \
+DSAPrims \
+ZipPlugin \
+DropPlugin \
+FFTPlugin \
+FT2Plugin \
+FileCopyPlugin \
+FilePlugin \
+FloatArrayPlugin \
+FloatMathPlugin \
+IA32ABI \
+InternetConfigPlugin \
+JPEGReadWriter2Plugin \
+JPEGReaderPlugin \
+JoystickTabletPlugin \
+Klatt \
+LargeIntegers \
+LocalePlugin \
+MIDIPlugin \
+Matrix2x3Plugin \
+MiscPrimitivePlugin \
+Mpeg3Plugin \
+RePlugin \
+SecurityPlugin \
+SerialPlugin \
+SocketPlugin \
+SoundCodecPrims \
+SoundGenerationPlugin \
+SoundPlugin \
+SqueakSSL \
+StarSqueakPlugin \
+SurfacePlugin \
+SqueakFFIPrims \
+UnixOSProcessPlugin

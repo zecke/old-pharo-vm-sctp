@@ -1,0 +1,1 @@
+#define REVISION_STRING "git://gitorious.org/cogvm/blessed.git Commit: a94316242b01bb112550c3ea20a85ae0ae3e3678 Date: 2013-11-21 15:50:24 +0100 By: Holger Hans Peter Freyther <holger@moiji-mobile.com> "
